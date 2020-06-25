@@ -1,3 +1,8 @@
+# How to run deployed version
+
+This repo is forked from Steve Michelotti  https://github.com/smichelotti/ng-bootstrap-course.
+You can see it deployed under my vercel dashboard: https://ng-bootstrap-course.rzeznik-kasia.vercel.app/
+
 # ng-bootstrap Course
 
 This course is up-to-date.
